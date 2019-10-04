@@ -1,1 +1,7 @@
-/* css styling*/
+/* css styling */
+
+body {
+
+    background-color: #418ddc
+
+}
