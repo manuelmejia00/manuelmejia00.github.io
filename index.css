@@ -6,6 +6,15 @@ body {
 
 }
 
+#first-header {
+
+    outline-style: dotted;
+    outline-color: blue;
+    border-radius: 25px;
+//    width: 300px;
+		       
+}
+
 h1, p {
 
     text-align: center;

@@ -1,6 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang = "en-US">
+  <head>
+
+  <meta charset = "UTF-8">
+  <title>Manuel Mejia</title>
+  <link rel = "stylesheet"
+	type = "text/css"
+	href = "index.css" />
+
+  </head>
   <body>
-    <h1>hello world!</h1>
+    <h1>Manuel Mejia</h1>
+    <p>University of California, Irvine</p>
+    <p>Expected Graduation Date: June 2022</p>
   </body>
 </html>
