@@ -17,7 +17,39 @@ p {
     text-align: center;
 }
 
+
+#intro-p {
+    outline-style: dotted;
+    outline-color: yellow;
+    background-color: lightgreen;
+    //border-radius: 25px;
+    text-align: center;
+}
+
+
+#profilepic {
+    text-align: center;
+    
+}
+
 .resize {
     width: 15%;
     height: 15%;
+}
+
+
+#navbar {
+    text-align: center;
+}
+
+#navbar li {
+    border: 2px solid #808080;
+    margin: 20px;
+    display:inline-block;
+    font-size: large;
+    //background-color: white;
+}
+
+#navbar li:hover {
+    background-color:lightblue;
 }
