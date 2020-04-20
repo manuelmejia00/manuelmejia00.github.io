@@ -1,23 +1,23 @@
 /* css styling */
 
 body {
-
     background-color: #FEF9E7;
-
 }
 
-#first-header {
+p {
+    text-align: center;
+    font-size: large;
+}
 
+
+#first-header {
     outline-style: dotted;
     outline-color: blue;
     border-radius: 25px;
     text-align: center;
-//    width: 300px;
-		       
 }
 
-p {
-
-    text-align: center;
-    font-size: large;
+#profilepic {
+    max-width:30%;
+    max-height:30%;
 }
