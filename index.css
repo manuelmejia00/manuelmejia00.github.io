@@ -11,14 +11,11 @@ p {
 
 
 #first-header {
-    //outline-style: solid;
-    //outline-color: lightblue;
-    border-radius: 25px;
+    /*border-radius: 25px;
     border: 2px solid lightblue;
-    padding: 20px;
+    padding: 20px;*/
     text-align: center;
     font-size: 3em;
-    
 }
 
 
@@ -29,7 +26,6 @@ p {
 
 #profilepic {
     text-align: center;
-    
 }
 
 #projects {
@@ -42,6 +38,10 @@ p {
 
 #rlink{
     text-align: center;
+}
+
+#contact {
+    background-color: pink;
 }
 
 .someheader {
@@ -60,11 +60,13 @@ p {
 }
 
 #navbar li {
-    border: 2px solid #808080;
-    margin: 20px;
+    border-radius: 25px;
+    padding: 4px;
+    border: 4px solid blue;
     display:inline-block;
+    margin:30px;
     font-size: 2em;
-    //background-color: white;
+    /*background-color: white;*/
 }
 
 #navbar li:hover {
