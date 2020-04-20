@@ -17,7 +17,7 @@ p {
     text-align: center;
 }
 
-img.resize {
-    width:15%;
-    height:15%;
+.resize {
+    width: 15%;
+    height: 15%;
 }
