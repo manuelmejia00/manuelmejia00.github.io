@@ -6,30 +6,47 @@ body {
 
 p {
     text-align: center;
-    font-size: large;
+    font-size: 2em;
 }
 
 
 #first-header {
-    outline-style: dotted;
-    outline-color: blue;
+    //outline-style: solid;
+    //outline-color: lightblue;
     border-radius: 25px;
+    border: 2px solid lightblue;
+    padding: 20px;
     text-align: center;
+    font-size: 3em;
+    
 }
 
 
 #intro-p {
-    outline-style: dotted;
-    outline-color: yellow;
     background-color: lightgreen;
-    //border-radius: 25px;
-    text-align: center;
 }
 
 
 #profilepic {
     text-align: center;
     
+}
+
+#projects {
+}
+
+#resume {
+    background-color: cyan;
+
+}
+
+#rlink{
+    text-align: center;
+}
+
+.someheader {
+    text-align: center;
+    font-size: 2em;    
 }
 
 .resize {
@@ -46,7 +63,7 @@ p {
     border: 2px solid #808080;
     margin: 20px;
     display:inline-block;
-    font-size: large;
+    font-size: 2em;
     //background-color: white;
 }
 
